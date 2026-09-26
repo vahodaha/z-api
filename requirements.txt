@@ -1,0 +1,3 @@
+requests
+# Bundled ffmpeg binary; not needed if ffmpeg is already on PATH.
+imageio-ffmpeg
